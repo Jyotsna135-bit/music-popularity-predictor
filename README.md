@@ -32,18 +32,6 @@ Forest, and a dummy baseline, then hyperparameter-tuned with Optuna (50
 trials). See `notebook/music_popularity_advanced.ipynb` for the full
 pipeline, model comparison charts, and SHAP analysis.
 
-## Project structure
-
-```
-hitscore/
-├── app.py                  # Streamlit app
-├── notebook/
-│   └── music_popularity_advanced.ipynb   # training pipeline
-├── models/                 # saved model, scaler, feature list (generated)
-├── requirements.txt
-└── README.md
-```
-
 ## Getting started
 
 ```bash
