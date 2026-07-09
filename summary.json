@@ -1,0 +1,9 @@
+{
+  "model": "XGBoost (Optuna-tuned)",
+  "test_r2": 0.3675,
+  "test_mae": 4.69,
+  "test_rmse": 6.49,
+  "n_features": 13,
+  "train_size": 181,
+  "test_size": 46
+}
