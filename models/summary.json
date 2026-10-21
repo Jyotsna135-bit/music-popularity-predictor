@@ -1,0 +1,11 @@
+{
+  "model": "Random Forest (Optuna-tuned)",
+  "test_r2": 0.2484,
+  "test_mae": 5.44,
+  "test_rmse": 7.07,
+  "error_margin_80pct": 7.24,
+  "n_features": 13,
+  "train_size": 181,
+  "test_size": 46,
+  "global_mean_popularity": 71.73
+}
